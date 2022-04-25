@@ -22,8 +22,6 @@
 
 ## Table
 | Name | Class |
-|-----|-----|
-
+|---|---|
 | Mila | WD |
-
 | Maximillian | WD |
