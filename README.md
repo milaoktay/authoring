@@ -1,12 +1,13 @@
 # Github Flavoured Markdown
 
 ## Checkboxes
-- [X][External Link](#external-link)
-- [X][Internal Link](#link-to-the-images-folder)
-- [X][Images](#image)
-- [X][Emojis](#emojis)
-- [X][Tables](#table)
+- [x] [External Link](#external-link)
+- [X] [Internal Link](#link-to-the-images-folder)
+- [X] [Images](#image)
+- [X] [Emojis](#emojis)
+- [x] [Tables](#table)
 
+-[ ]thfsjaf
 
 ## External Link
 [Github Documentation](https://help.github.com/en)
