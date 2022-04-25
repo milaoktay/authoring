@@ -1,11 +1,11 @@
-# # Github Flavoured Markdown
+# Github Flavoured Markdown
 
 ## Checkboxes
 - [X][External Link](#external-link)
-- [X]Internal Link
-- [X]Images
-- [X]Emojis
-- [X]Tables
+- [X][Internal Link](#link-to-the-images-folder)
+- [X][Images](#image)
+- [X][Emojis](#emojis)
+- [X][Tables](#table)
 
 
 ## External Link
@@ -21,7 +21,6 @@
 :bowtie:
 
 ## Table
-| Names | Class |
-| ---- | ---- |
+| Name | Class |
 | Mila | WD |
 | Maximillian | WD |
