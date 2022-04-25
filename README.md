@@ -7,8 +7,6 @@
 - [X] [Emojis](#emojis)
 - [x] [Tables](#table)
 
--[ ]thfsjaf
-
 ## External Link
 [Github Documentation](https://help.github.com/en)
 
@@ -20,8 +18,12 @@
 
 ## Emojis
 :bowtie:
+:smile:
 
 ## Table
 | Name | Class |
+|-----|-----|
+
 | Mila | WD |
+
 | Maximillian | WD |
